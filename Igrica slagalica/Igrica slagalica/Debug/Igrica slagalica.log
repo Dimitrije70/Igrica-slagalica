@@ -1,0 +1,7 @@
+﻿  Kod.c
+C:\Димитрије\Програмирање\Моји Пројекти\Igrica slagalica\Igrica slagalica\Kod.c(17,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Димитрије\Програмирање\Моји Пројекти\Igrica slagalica\Igrica slagalica\Kod.c(38,18): warning C4101: 'rand_indeks': unreferenced local variable
+C:\Димитрије\Програмирање\Моји Пројекти\Igrica slagalica\Igrica slagalica\Kod.c(38,6): warning C4101: 'i': unreferenced local variable
+C:\Димитрије\Програмирање\Моји Пројекти\Igrica slagalica\Igrica slagalica\Kod.c(109,9): warning C4101: 'j': unreferenced local variable
+C:\Димитрије\Програмирање\Моји Пројекти\Igrica slagalica\Igrica slagalica\Kod.c(109,6): warning C4101: 'i': unreferenced local variable
+  Igrica slagalica.vcxproj -> C:\Димитрије\Програмирање\Моји Пројекти\Igrica slagalica\Debug\Igrica slagalica.exe
